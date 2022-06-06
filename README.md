@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @MArk__™
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning python language
+- 📫 Contact me on markdexbusi@gmail.com
